@@ -15,6 +15,7 @@ const Hierarchy = (props) => {
               <div>
                 <Grid align='center'>
                   <Button
+                  variant="outlined" color="primary" href="#outlined-buttons"
                   onClick={() => setOpen(!open)}
                   aria-controls="collapse-text"
                   aria-expanded={open}
