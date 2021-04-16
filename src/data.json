@@ -1,0 +1,58 @@
+[{
+  "name": "Vijay Kartik",
+  "designation": "Manager",
+  "supervisee": "3 supervisee",
+  "children": [
+    {
+      "name": "Aisiri S K",
+      "designation": "IT Specialists",
+      "supervisee": "4 supervisee",
+      "children": [
+        {
+          "name": "Ankush Bose",
+          "designation": "HR"
+        },
+        {
+          "name": "Supriya",
+          "designation": "DEVELOPER"
+        },
+        {
+          "name": "Sumaya",
+          "designation": "IT OFFICER"
+        },
+        {
+          "name": "Rakshit",
+          "designation": "DEVELOPER"
+        }
+      ]
+    },
+    {
+      "name": "Ankur Bose",
+      "designation": "IT Specialists"
+    },
+    {
+      "name": "Anupam",
+      "designation": "IT Specialists",
+      "supervisee": "4 supervisee",
+      "children": [
+        {
+          "name": "Somendra",
+          "designation": "HR"
+        },
+        {
+          "name": "Ishaq",
+          "designation": "DEVELOPER"
+        },
+        {
+          "name": "Murlli",
+          "designation": "IT OFFICER"
+        },
+        {
+          "name": "Ankit",
+          "designation": "DEVELOPER"
+        }
+      ]
+    }
+  ]
+}
+]
